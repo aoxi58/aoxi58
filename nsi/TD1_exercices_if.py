@@ -11,5 +11,5 @@ for i in range (10):
         print("c'est moins")
     elif inconnue==n:
         print("c'est gagné")
-if inconnue!=n :       
+if inconnue!=n:       
     print("c'est perdu")
