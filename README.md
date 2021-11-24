@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aoxi58
+- 👋 Hi, I’m @aoxi58 / my disord : aoxi#1171
 - 👀 I’m interested in mtb, informatic and making vidéos
 - 🌱 I’m currently learning python, php and html
 - 💞️ I’m looking to collaborate on NSI project
