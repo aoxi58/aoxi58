@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aoxi58 / my discord : aoxi#1171
 - 👀 I’m interested in mtb and informatic
-- 🌱 I’m currently learning python, js and html
-- 💞️ I’m looking to collaborate on NSI project
+- 🌱 I’m currently learning python and yaml
+- 💞️ I’m looking to collaborate on HA project
 
 
 <!---
